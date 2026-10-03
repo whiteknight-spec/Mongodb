@@ -1,3 +1,65 @@
+1) Data base 
+
+Python program
+      ↓
+   Database
+      ↓
+Data permanently stored
+
+2) What is mangodb?
+it's a Database Management System
+ex)MySQL, PostgreSQL, MongoDB
+
+3) 4 terms of Mongodb
+MongoDB
+   ↓
+Database
+   ↓
+Collection
+   ↓
+Document
+
+4)SQL vs MongoDB
+| SQL      | MongoDB       |
+| -------- | ------------- |
+| Database | Database      |
+| Table    | Collection    |
+| Row      | Document      |
+| Column   | Field         |
+| SQL      | MongoDB Query |
+
+5) MongoDB Compass
+to check or see and manage Mangodb to use GUI
+
+6) MongoDB Compass usages
+
+Database create 
+Collection create 
+Documents add 
+Documents edit 
+Delete 
+Queries run 
+Data inspect
+
+7) Flow of MongoDB
+
+User
+ ↓
+( React ) Frontend
+ ↓
+API
+ ↓
+( Flask ) Backend
+ ↓
+MongoDB
+
+8) CURD
+
+C - creat
+U - update
+R - read
+D - delete
+
 
 ##Mongodb mapping
 
